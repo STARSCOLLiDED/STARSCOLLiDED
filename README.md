@@ -1,5 +1,5 @@
   <p align="center">
- <img src="https://komarev.com/ghpvc/?username=STARSCOLLiDED&color=827a8f&style=plastic&label=KARMA" alt="Profile Views" /> ᅠᅠᅠᅠᅠᅠᅠ<img width="20" alt="minitill" src="https://files.catbox.moe/kjq5zo.png" </p>
+ <img src="https://komarev.com/ghpvc/?username=STARSCOLLiDED&color=827a8f&style=plastic&label=KARMA" alt="KARMA" /> ᅠᅠᅠᅠᅠᅠᅠ<img width="20" alt="minitill" src="https://files.catbox.moe/kjq5zo.png" </p>
 </p>
 <table align="center">
   <tr>
