@@ -1,10 +1,10 @@
   <p align="center">
- <img src="https://komarev.com/ghpvc/?username=STARSCOLLiDED&color=827a8f&style=plastic&label=KARMA" alt="KARMA" /> ᅠᅠᅠᅠᅠᅠᅠ<img width="20" alt="minitill" src="https://files.catbox.moe/kjq5zo.png" </p>
+ <img src="https://komarev.com/ghpvc/?username=STARSCOLLiDED&color=008400&style=plastic&label=CHIMES" alt="KARMA" /> ᅠᅠᅠᅠᅠᅠᅠ<img width="20" alt="bells" src="https://files.catbox.moe/ih48er.webp" </p>
 </p>
 <table align="center">
   <tr>
 <td align="center" valign="middle">
-        <img width="350px" salt="image" src="https://files.catbox.moe/n8gpqz.png" />
+        <img width="350px" salt="image" src="https://files.catbox.moe/9jgrmg.png" />
     </td>
   </tr>
     <td rowspan="1" align="center">
@@ -14,5 +14,5 @@
   </tr>
 </table>
   <p align="center">
- <img src="https://files.catbox.moe/sjhwo5.png" />
+ <img src="https://files.catbox.moe/pq4ipi.webp" />
 </p>
