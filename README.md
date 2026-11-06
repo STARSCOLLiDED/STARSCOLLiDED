@@ -1,5 +1,5 @@
   <p align="center">
- <img src="https://komarev.com/ghpvc/?username=STARSCOLLiDED&color=008400&style=plastic&label=CHIMES" alt="KARMA" /> ᅠᅠᅠᅠᅠᅠᅠ<img width="20" alt="bells" src="https://files.catbox.moe/ih48er.webp" </p>
+ <img src="https://komarev.com/ghpvc/?username=STARSCOLLiDED&color=008400&style=plastic&label=CHIMES" alt="CHIMES" /> ᅠᅠᅠᅠᅠᅠᅠ<img width="20" alt="bells" src="https://files.catbox.moe/ih48er.webp" </p>
 </p>
 <table align="center">
   <tr>
